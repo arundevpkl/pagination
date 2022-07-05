@@ -1,6 +1,6 @@
 .header {
     height: 5rem;
-    background-color: #38015c;
+    background-color: #333533;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
     display: flex;
     justify-content: space-between;
@@ -45,10 +45,10 @@
 }
 
 .header a:hover {
-    color: #c291e2;
+    color: #9c9898;
 }
 
 .header button:hover {
-    background-color: #c291e2;
-    color: #38015c;
+    background-color: #9c9898;
+    color: #020202;
 }
